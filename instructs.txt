@@ -1,0 +1,8 @@
+
+pip install pygame
+
+run in pycharm from GameGame location
+
+edit python file for use with game menu
+
+specific game python files for testing on own
